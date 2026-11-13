@@ -1,0 +1,19 @@
+# MATLAB
+*.asv
+*.m~
+slprj/
+*.autosave
+*.mat~
+
+# Generated results
+results/*.mat
+results/*.csv
+comparisonResults.mat
+
+# System
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
